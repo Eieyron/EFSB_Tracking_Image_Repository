@@ -12,63 +12,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>efsb</name>
+		<name>eggplant</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>746</xmin>
-			<ymin>572</ymin>
-			<xmax>803</xmax>
-			<ymax>621</ymax>
+			<xmin>452</xmin>
+			<ymin>105</ymin>
+			<xmax>688</xmax>
+			<ymax>340</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>efsb</name>
+		<name>eggplant</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>961</xmin>
-			<ymin>410</ymin>
-			<xmax>1038</xmax>
-			<ymax>450</ymax>
+			<xmin>1219</xmin>
+			<ymin>120</ymin>
+			<xmax>1444</xmax>
+			<ymax>347</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>efsb</name>
+		<name>eggplant</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>944</xmin>
-			<ymin>455</ymin>
-			<xmax>993</xmax>
-			<ymax>519</ymax>
+			<xmin>1179</xmin>
+			<ymin>751</ymin>
+			<xmax>1419</xmax>
+			<ymax>1002</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>efsb</name>
+		<name>eggplant</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>971</xmin>
-			<ymin>464</ymin>
-			<xmax>1016</xmax>
-			<ymax>572</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>efsb</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1031</xmin>
-			<ymin>447</ymin>
-			<xmax>1083</xmax>
-			<ymax>530</ymax>
+			<xmin>486</xmin>
+			<ymin>752</ymin>
+			<xmax>717</xmax>
+			<ymax>1000</ymax>
 		</bndbox>
 	</object>
 </annotation>
